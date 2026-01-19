@@ -6,7 +6,8 @@ from langchain_community.utilities import WikipediaAPIWrapper
 from langchain_classic.agents.agent_types import AgentType
 from langchain_classic.agents import initialize_agent, Tool
 # from dotenv import load_dotenv
-from langchain_classic.callbacks import StreamlitCallbackHandler
+from langchain_community.callbacks.streamlit import StreamlitCallbackHandler
+
 
 ##streamlit
 st.set_page_config(page_title="LangChain MathGPT", page_icon="🤖", layout="centered")
@@ -92,4 +93,5 @@ if st.button("Find Answer"):
             st.success(response)
 
     else:
+
         st.warning("❌ Please enter a mathematical question to proceed.")
