@@ -1,3 +1,15 @@
+---
+title: MathGPT LangChain
+emoji: 🧮
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.30.0"
+python_version: "3.10"
+app_file: app.py
+pinned: false
+---
+
 # MathGPT-Langchain
 
 A mathematical assistant and reasoning agent powered by Google Gemma2 via Groq, built using LangChain and Streamlit.
@@ -23,6 +35,6 @@ Check out the live application here: **[MathGPT-Langchain](https://mathgpt-langc
 ## Installation
 
 ```bash
-git clone [https://github.com/your-username/mathgpt-langchain.git](https://github.com/your-username/mathgpt-langchain.git)
+git clone https://github.com/your-username/mathgpt-langchain.git
 cd mathgpt-langchain
 pip install -r requirements.txt
