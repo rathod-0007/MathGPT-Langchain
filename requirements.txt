@@ -1,0 +1,40 @@
+langchain
+# ipykernel
+python-dotenv #to load api keys
+langchain-community
+pypdf
+PyPDF2
+bs4
+# beautifulsoup4
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
+langchain-groq
+langchain-google-genai
+langchain-openai
+# chromadb
+langchain-ollama
+sentence_transformers
+langchain_huggingface
+huggingface_hub
+faiss-cpu
+langchain_chroma
+langchain-classic
+streamlit
+langchain-core
+fastapi
+uvicorn
+langserve
+langchain_community
+langchain-text-splitters
+langchainhub
+ddgs
+langchain_experimental
+validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
+numexpr
+langchain-astradb
+astrapy
