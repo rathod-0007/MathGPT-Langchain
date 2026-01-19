@@ -18,6 +18,14 @@ pinned: false
 It solves math problems with **step-by-step explanations**, accurate calculations, and contextual knowledge retrieval.
 
 ---
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mathgpt-langchain-0007.streamlit.app/)  
+[![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face-Spaces-purple?logo=huggingface&logoColor=white)](https://huggingface.co/spaces/rathod-0007/Math_GPT)  
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)  
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.30-orange?logo=streamlit&logoColor=white)](https://docs.streamlit.io/)  
+[![LangChain](https://img.shields.io/badge/LangChain-0.1%2B-lightgrey?logo=python&logoColor=black)](https://python.langchain.com/docs/)  
+[![Groq API](https://img.shields.io/badge/Groq-API-blueviolet)](https://console.groq.com/docs)  
+[![Wikipedia API](https://img.shields.io/badge/Wikipedia-API-lightgrey?logo=wikipedia&logoColor=black)](https://www.mediawiki.org/wiki/API:Main_page)  
+---
 
 ## 🚀 Live Deployments
 
