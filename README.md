@@ -10,31 +10,59 @@ app_file: app.py
 pinned: false
 ---
 
-# MathGPT-Langchain
+# 🧮 MathGPT-LangChain
 
-A mathematical assistant and reasoning agent powered by Google Gemma2 via Groq, built using LangChain and Streamlit.
+📐 **MathGPT-LangChain** is a smart mathematical reasoning assistant powered by  
+🤖 **Google Gemma 2 via Groq**, built using 🔗 **LangChain** and 🎨 **Streamlit**.  
 
-## 🔗 Live Demo
-Check out the live application here: **[MathGPT-Langchain](https://mathgpt-langchain-0007.streamlit.app/)**
+It solves math problems with **step-by-step explanations**, accurate calculations, and contextual knowledge retrieval.
 
-## Features
+---
 
-* **Step-by-Step Reasoning:** Solves complex math word problems with explained logic.
-* **Calculator Integration:** Uses `LLMMathChain` for precise numerical computations.
-* **Knowledge Retrieval:** Fetches context from Wikipedia for general queries.
-* **Streamlit Interface:** Interactive chat interface with session state management.
+## 🚀 Live Deployments
 
-## Tech Stack
+🤗 **Hugging Face Spaces**  
+👉 https://huggingface.co/spaces/rathod-0007/Math_GPT
 
-* **Python**
-* **Streamlit**
-* **LangChain** (Agents, Chains, Tools)
-* **Groq API** (Gemma2 Model)
-* **Wikipedia API**
+🎈 **Streamlit Cloud**  
+👉 https://mathgpt-langchain-0007.streamlit.app/
 
-## Installation
+---
 
+## ✨ Features
+
+🧠 **Step-by-Step Reasoning**  
+Clearly explains each logical step while solving math problems.
+
+🧮 **Accurate Calculations**  
+Uses LangChain’s `LLMMathChain` for precise numerical computation.
+
+🌐 **Knowledge Retrieval**  
+Fetches relevant context from 📚 **Wikipedia** for conceptual queries.
+
+💬 **Interactive Chat Interface**  
+Streamlit-based conversational UI with session state management.
+
+⚡ **Ultra-Fast Inference**  
+Powered by 🚀 **Groq LPU inference** using **Gemma 2**.
+
+---
+
+## 🛠️ Tech Stack
+
+🐍 **Python 3.10**  
+🎨 **Streamlit**  
+🔗 **LangChain** (Agents, Chains, Tools)  
+🤖 **Google Gemma 2**  
+⚡ **Groq API**  
+📚 **Wikipedia API**  
+☁️ **Hugging Face Spaces**
+
+---
+
+## 📦 Installation
+
+⬇️ **Clone the repository**
 ```bash
 git clone https://github.com/your-username/mathgpt-langchain.git
 cd mathgpt-langchain
-pip install -r requirements.txt
